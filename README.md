@@ -32,7 +32,7 @@ Dans cette présentation, nous allons explorer le fonctionnement d'internet et c
 
 ## 7. Le DNS : Convertir les Adresses IP en Noms de Domaine 🌐🏷️
 
-- Le **système de noms de domaine (DNS, Domain Name System)** permet de convertir des adresses IP (comme 173.194.39.78) en noms de domaine lisibles par l'homme, tels que www.google.com.
+- Le **système de noms de domaine (DNS, Domain Name System)** permet de convertir des adresses IP (comme 142.250.179.68) en noms de domaine lisibles par l'homme, tels que www.google.com.
 
 ## 8. Comprendre les Différences 🧐
 
