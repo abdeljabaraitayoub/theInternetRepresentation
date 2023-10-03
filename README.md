@@ -1,33 +1,41 @@
-# Présentation sur le Fonctionnement du Web 🌐
+# Comment Fonctionne le Web 🌐
 
-Ce document présente une vue d'ensemble de la façon dont le web fonctionne, en expliquant les concepts clés et la terminologie associée.
+Dans cette présentation, nous allons explorer le fonctionnement du web et comprendre les différences entre ses principaux acteurs.
 
-## Internet : Connecter le Monde 🌍
+## 1. Internet : Le Réseau Mondial 🌍
 
-**Internet** est l'ensemble de réseaux mondiaux interconnectés qui permettent à des ordinateurs et à des serveurs de communiquer efficacement au moyen d'un protocole de communication commun appelé **IP (Internet Protocol)**.
+- **Internet** est un ensemble de réseaux mondiaux interconnectés qui permettent à des ordinateurs et à des serveurs de communiquer efficacement au moyen d'un protocole de communication commun appelé **IP (Internet Protocol)**.
 
-## Les Paquets : L'Art du Transfert de Données 📦
+## 2. Les Paquets : La Transmission de Données 📦
 
-Sur Internet, un **paquet** est un ensemble de données envoyé par un ordinateur à un autre ordinateur via un réseau. Ces paquets sont utilisés pour transférer des informations telles que des fichiers, des e-mails, des images, des vidéos, etc. Ils sont envoyés et reçus à grande vitesse pour assurer une communication rapide et efficace.
+- Sur Internet, un **paquet** est un ensemble de données envoyé par un ordinateur à un autre ordinateur via un réseau. Ces paquets sont utilisés pour transférer des informations telles que des fichiers, des e-mails, des images, des vidéos, etc. Ils sont envoyés et reçus à grande vitesse pour assurer une communication rapide et efficace.
 
-## Différenciation entre une Page Web et un Serveur Web 🖥️
+## 3. Différenciation entre une Page Web et un Serveur Web 🖥️
 
-- **Page Web** : Un document qui peut être affiché par un navigateur web (comme Mozilla Firefox, Google Chrome, Microsoft Edge ou Safari). On les appelle aussi simplement "pages".
+- **Page Web** : Un document qui peut être affiché par un navigateur web (tel que Mozilla Firefox, Google Chrome, Microsoft Edge ou Safari). On les appelle aussi simplement "pages".
 
 - **Serveur Web** : Un ordinateur qui héberge un site web sur Internet.
 
-## Navigateur Web vs Moteur de Recherche 🌐🔍
+## 4. Différences entre un Navigateur Web et un Moteur de Recherche 🌐🔍
 
-La principale différence entre un **navigateur web** et un **moteur de recherche** est que le navigateur web est un logiciel qui affiche des pages web, tandis qu'un moteur de recherche est un site web qui répertorie les pages web d'autres sites en fonction de vos requêtes. Le navigateur peut afficher n'importe quelle page web sur l'écran de votre appareil, tandis que le moteur de recherche vous aide à trouver la meilleure page web correspondant à votre requête.
+- **Navigateur Web** : Un logiciel qui affiche des pages web. Il agit comme un véhicule pour explorer le web.
 
-## Compréhension d'un Client d'un Serveur 💻🔄
+- **Moteur de Recherche** : Un site web qui répertorie les pages web d'autres sites en fonction de vos requêtes de recherche. Il sert de GPS pour trouver des informations sur le web.
 
-Un **client** est un logiciel informatique qui effectue des requêtes vers un serveur. Le client émet une demande vers le serveur en utilisant son adresse et son port, qui varient en fonction du protocole utilisé. Le serveur reçoit la demande et y répond.
+## 5. Qu'est-ce qu'un Client d'un Serveur ? 💻🔄
 
-## Protocole de Communication IP : Les Coulisses de l'Internet 🌐📶
+- Un **client** est un logiciel informatique qui émet des requêtes à un serveur. Le serveur reçoit ces demandes et y répond.
 
-Le **protocole IP (Internet Protocol)** est un protocole sans connexion qui permet d'envoyer et de recevoir des données entre des appareils connectés à Internet. Chaque appareil possède une adresse IP unique qui sert à router les paquets de données vers leur destination. Le protocole IP fait partie de la famille des protocoles Internet, qui comprend également le protocole TCP (Transmission Control Protocol) gérant la transmission des contenus.
+## 6. Protocole de Communication IP : Les Coulisses d'Internet 🌐📶
 
-## Le DNS : Transformer les Adresses IP en Noms de Domaine 🌐🏷️
+- Le **protocole IP (Internet Protocol)** permet l'envoi et la réception de données entre des appareils connectés à Internet. Chaque appareil possède une adresse IP unique pour identifier et router les paquets de données.
 
-Le **système de noms de domaine (DNS, Domain Name System)** est la méthode par laquelle une adresse IP (ensemble de chiffres, par exemple, 173.194.39.78) est convertie sur un ordinateur ou un autre dispositif connecté en un nom de domaine lisible par l'homme, tel que www.google.com.
+## 7. Le DNS : Convertir les Adresses IP en Noms de Domaine 🌐🏷️
+
+- Le **système de noms de domaine (DNS, Domain Name System)** permet de convertir des adresses IP (comme 173.194.39.78) en noms de domaine lisibles par l'homme, tels que www.google.com.
+
+## 8. Comprendre les Différences 🧐
+
+- En résumé, un **navigateur web** est un logiciel qui affiche des pages web, tandis qu'un **moteur de recherche** est un site web qui aide les utilisateurs à trouver des pages web sur d'autres sites.
+
+J'espère que cette présentation vous a aidé à comprendre le fonctionnement du web ! 🚀
