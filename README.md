@@ -1,6 +1,6 @@
-# Comment Fonctionne le Web 🌐
+# Comment Fonctionne l'internet 🌐
 
-Dans cette présentation, nous allons explorer le fonctionnement du web et comprendre les différences entre ses principaux acteurs.
+Dans cette présentation, nous allons explorer le fonctionnement d'internet et comprendre les différences entre ses principaux acteurs.
 
 ## 1. Internet : Le Réseau Mondial 🌍
 
